@@ -1,0 +1,357 @@
+[
+  {
+    "code": "AB",
+    "description": "Abandoned",
+    "longDescription": "This nest box was abandoned by the nesting parents."
+  },
+  {
+    "code": "AT",
+    "description": "Ants",
+    "longDescription": ""
+  },
+  {
+    "code": "BH",
+    "description": "Bad Habitat",
+    "longDescription": ""
+  },
+  {
+    "code": "BT",
+    "description": "Bat",
+    "longDescription": ""
+  },
+  {
+    "code": "BR",
+    "description": "Bear",
+    "longDescription": ""
+  },
+  {
+    "code": "BK",
+    "description": "Blackbird",
+    "longDescription": ""
+  },
+  {
+    "code": "BF",
+    "description": "Blowflies",
+    "longDescription": ""
+  },
+  {
+    "code": "BL",
+    "description": "Blue",
+    "longDescription": ""
+  },
+  {
+    "code": "BJ",
+    "description": "Bluejay",
+    "longDescription": ""
+  },
+  {
+    "code": "BD",
+    "description": "Brood",
+    "longDescription": ""
+  },
+  {
+    "code": "CT",
+    "description": "Cat",
+    "longDescription": ""
+  },
+  {
+    "code": "CK",
+    "description": "Chicks",
+    "longDescription": ""
+  },
+  {
+    "code": "CE",
+    "description": "Chickadee (Black-capped Chickadee)",
+    "longDescription": ""
+  },
+  {
+    "code": "CD",
+    "description": "Cold",
+    "longDescription": ""
+  },
+  {
+    "code": "CR",
+    "description": "Cold & Rain",
+    "longDescription": ""
+  },
+  {
+    "code": "CB",
+    "description": "Cowbird",
+    "longDescription": ""
+  },
+  {
+    "code": "CY",
+    "description": "Coyote",
+    "longDescription": ""
+  },
+  {
+    "code": "CR",
+    "description": "Crow",
+    "longDescription": ""
+  },
+  {
+    "code": "DG",
+    "description": "Dog",
+    "longDescription": ""
+  },
+  {
+    "code": "DT",
+    "description": "Drought",
+    "longDescription": ""
+  },
+  {
+    "code": "EW",
+    "description": "Earwigs",
+    "longDescription": ""
+  },
+  {
+    "code": "EB",
+    "description": "Eastern Bluebird",
+    "longDescription": ""
+  },
+  {
+    "code": "EG",
+    "description": "Eggs",
+    "longDescription": ""
+  },
+  {
+    "code": "MT",
+    "description": "Empty",
+    "longDescription": ""
+  },
+  {
+    "code": "FM",
+    "description": "Female (Eastern Bluebird)",
+    "longDescription": ""
+  },
+  {
+    "code": "FL",
+    "description": "Fledged",
+    "longDescription": ""
+  },
+  {
+    "code": "FD",
+    "description": "Flood",
+    "longDescription": ""
+  },
+  {
+    "code": "FX",
+    "description": "Fox",
+    "longDescription": ""
+  },
+  {
+    "code": "GN",
+    "description": "Gnats",
+    "longDescription": ""
+  },
+  {
+    "code": "HA",
+    "description": "Hatched",
+    "longDescription": ""
+  },
+  {
+    "code": "HK",
+    "description": "Hawk",
+    "longDescription": ""
+  },
+  {
+    "code": "HT",
+    "description": "Heat/Hot",
+    "longDescription": ""
+  },
+  {
+    "code": "HC",
+    "description": "Herbicide",
+    "longDescription": ""
+  },
+  {
+    "code": "HF",
+    "description": "House Finch",
+    "longDescription": "Signs of House Finches at this nest box location."
+  },
+  {
+    "code": "HS",
+    "description": "House Sparrow",
+    "longDescription": "Signs of House Sparrows at this nest box location."
+  },
+  {
+    "code": "HW",
+    "description": "House Wren",
+    "longDescription": "Signs of House Wrens at this nest box location."
+  },
+  {
+    "code": "IE",
+    "description": "Infertile Egg",
+    "longDescription": ""
+  },
+  {
+    "code": "KL",
+    "description": "Kestrel",
+    "longDescription": ""
+  },
+  {
+    "code": "MA",
+    "description": "Male (Eastern Bluebird)",
+    "longDescription": ""
+  },
+  {
+    "code": "MI",
+    "description": "Mice",
+    "longDescription": ""
+  },
+  {
+    "code": "MK",
+    "description": "Mink",
+    "longDescription": ""
+  },
+  {
+    "code": "MD",
+    "description": "Mockingbird",
+    "longDescription": ""
+  },
+  {
+    "code": "MB",
+    "description": "Mountain Bluebird",
+    "longDescription": ""
+  },
+  {
+    "code": "NT",
+    "description": "Nest",
+    "longDescription": ""
+  },
+  {
+    "code": "NP",
+    "description": "No Problems",
+    "longDescription": ""
+  },
+  {
+    "code": "NHW",
+    "description": "Nuthatch (White-breasted)",
+    "longDescription": ""
+  },
+  {
+    "code": "NHB",
+    "description": "Nuthatch (Red-breasted)",
+    "longDescription": ""
+  },
+  {
+    "code": "OP",
+    "description": "Opossum",
+    "longDescription": ""
+  },
+  {
+    "code": "OW",
+    "description": "Owl",
+    "longDescription": ""
+  },
+  {
+    "code": "PB",
+    "description": "Paired Boxes",
+    "longDescription": ""
+  },
+  {
+    "code": "PC",
+    "description": "Pesticide",
+    "longDescription": ""
+  },
+  {
+    "code": "PT",
+    "description": "Predator",
+    "longDescription": ""
+  },
+  {
+    "code": "RC",
+    "description": "Racoon",
+    "longDescription": ""
+  },
+  {
+    "code": "RN",
+    "description": "Rain",
+    "longDescription": ""
+  },
+  {
+    "code": "RM",
+    "description": "Remove",
+    "longDescription": ""
+  },
+  {
+    "code": "SN",
+    "description": "Snake",
+    "longDescription": ""
+  },
+  {
+    "code": "SW",
+    "description": "Snow",
+    "longDescription": ""
+  },
+  {
+    "code": "SQ",
+    "description": "Squirrel",
+    "longDescription": ""
+  },
+  {
+    "code": "ST",
+    "description": "Starling",
+    "longDescription": ""
+  },
+  {
+    "code": "SK",
+    "description": "Sticks",
+    "longDescription": ""
+  },
+  {
+    "code": "TM",
+    "description": "Titmouse",
+    "longDescription": ""
+  },
+  {
+    "code": "TS",
+    "description": "Tree Swallow",
+    "longDescription": ""
+  },
+  {
+    "code": "VM",
+    "description": "Vandalism",
+    "longDescription": ""
+  },
+  {
+    "code": "WP",
+    "description": "Wasps",
+    "longDescription": ""
+  },
+  {
+    "code": "WE",
+    "description": "Weasel",
+    "longDescription": ""
+  },
+  {
+    "code": "WX",
+    "description": "Weather",
+    "longDescription": ""
+  },
+  {
+    "code": "WB",
+    "description": "Western Bluebird",
+    "longDescription": ""
+  },
+  {
+    "code": "WW",
+    "description": "Wet & Windy",
+    "longDescription": ""
+  },
+  {
+    "code": "WS",
+    "description": "Windstorm",
+    "longDescription": ""
+  },
+  {
+    "code": "WD",
+    "description": "Wood Duck",
+    "longDescription": ""
+  },
+  {
+    "code": "WP",
+    "description": "Woodpecker",
+    "longDescription": ""
+  }
+]

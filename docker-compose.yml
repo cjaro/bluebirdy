@@ -1,0 +1,7 @@
+version: '3.4'
+services:
+  postgres:
+    image: mongo:latest
+    container_name: bluebird-mongo
+    ports:
+      - "27017:27017"
